@@ -1,7 +1,12 @@
 <?php
 session_start();
+<<<<<<< HEAD
 include '../includes/header.php';
 include '../includes/menu.php';
+=======
+include 'includes/header.php';
+include 'includes/menu.php';
+>>>>>>> 8b37cd3cd09c249001f2b1e8a7a6773653e329af
 ?>
 
 <main class="principal">
@@ -37,4 +42,8 @@ include '../includes/menu.php';
     </section>
 </main>
 
+<<<<<<< HEAD
 <?php include '../includes/footer.php'; ?>
+=======
+<?php include 'includes/footer.php'; ?>
+>>>>>>> 8b37cd3cd09c249001f2b1e8a7a6773653e329af
